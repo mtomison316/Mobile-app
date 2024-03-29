@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute">
+    <sys_sg_input_attribute action="INSERT_OR_UPDATE">
+        <input display_value="Vendor">4f38d4a787098210bd18642c8bbb3569</input>
+        <name>TargetTable</name>
+        <sys_class_name>sys_sg_input_attribute</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-03-25 20:15:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>433850e787098210bd18642c8bbb35b3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TargetTable</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_input_attribute_433850e787098210bd18642c8bbb35b3</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-03-25 20:18:57</sys_updated_on>
+        <value>core_company</value>
+    </sys_sg_input_attribute>
+</record_update>

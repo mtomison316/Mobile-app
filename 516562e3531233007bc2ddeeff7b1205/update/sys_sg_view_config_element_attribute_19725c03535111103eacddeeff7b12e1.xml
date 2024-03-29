@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>text_04_FieldLabel</description>
+        <name display_value="FieldLabel">c90fd1c2b7321010df65f6efce11a9d2</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-18 04:15:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>19725c03535111103eacddeeff7b12e1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>c90fd1c2b7321010df65f6efce11a9d2</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_19725c03535111103eacddeeff7b12e1</sys_update_name>
+        <sys_updated_by>MAB005</sys_updated_by>
+        <sys_updated_on>2024-03-25 19:36:45</sys_updated_on>
+        <translated_value/>
+        <value>incident_state</value>
+        <view_config_element display_value="text_04_element">d1725c03535111103eacddeeff7b12df</view_config_element>
+    </sys_sg_view_config_element_attribute>
+</record_update>

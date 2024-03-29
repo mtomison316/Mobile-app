@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <button display_value="Incident creation My work">649c128877661110949878dabd5a993e</button>
+        <color_theme/>
+        <description>Creating an incident using quick action without company</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="icon-Plus-Solid">f78238d487352010ca99e12397cb0b54</icon>
+        <label>Open an incident</label>
+        <location>quick_action</location>
+        <name>Open an incident My work Quick action</name>
+        <order/>
+        <parent>dbb06f2553f633007bc2ddeeff7b1251</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-10 10:40:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5ef6ea4877a61110949878dabd5a998e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Open an incident My work Quick action</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_button_instance_5ef6ea4877a61110949878dabd5a998e</sys_update_name>
+        <sys_updated_by>MAB005</sys_updated_by>
+        <sys_updated_on>2024-03-24 23:17:48</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_variable">
+    <sys_sg_variable action="INSERT_OR_UPDATE">
+        <name>vendor</name>
+        <parameter_screen display_value="Edit">c271739f77e01110949878dabd5a992f</parameter_screen>
+        <parameter_section/>
+        <sys_class_name>sys_sg_variable</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-03-25 20:15:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4c789ca787098210bd18642c8bbb351d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>vendor</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_variable_4c789ca787098210bd18642c8bbb351d</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-03-25 20:15:59</sys_updated_on>
+        <type>db_field</type>
+    </sys_sg_variable>
+</record_update>

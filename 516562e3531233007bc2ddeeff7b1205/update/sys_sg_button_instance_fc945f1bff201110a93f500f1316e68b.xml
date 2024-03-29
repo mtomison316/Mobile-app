@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <button display_value="Resolve incident">b5019f57ff201110a93f500f1316e6da</button>
+        <color_theme/>
+        <description>1)my work Incidents at risk
+2)my team Incidents at risk</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Resolve</label>
+        <location>trailing_swipe</location>
+        <name>Resolve incident Incidents at risk Swipe</name>
+        <order>10</order>
+        <parent>14cec2ea0f0333009b926a40ff767e87</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 06:14:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fc945f1bff201110a93f500f1316e68b</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Resolve incident Incidents at risk Swipe</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_button_instance_fc945f1bff201110a93f500f1316e68b</sys_update_name>
+        <sys_updated_by>MAB005</sys_updated_by>
+        <sys_updated_on>2024-03-25 19:48:43</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_button_instance>
+</record_update>
