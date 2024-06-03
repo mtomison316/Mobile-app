@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Cancelled">85b2871d873186d0bd18642c8bbb351c</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Cancel</label>
+        <location>footer</location>
+        <name>Pending to Cancel</name>
+        <order>20</order>
+        <parent>28f9f3d1877586d0bd18642c8bbb352c</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-04-25 19:49:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f4bbf395877586d0bd18642c8bbb35e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending to Cancel</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f4bbf395877586d0bd18642c8bbb35e1</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-25 19:49:39</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

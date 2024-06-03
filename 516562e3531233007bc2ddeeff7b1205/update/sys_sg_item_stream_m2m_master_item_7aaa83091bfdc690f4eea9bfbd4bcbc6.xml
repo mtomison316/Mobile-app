@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Validations ready">f48983851bfdc690f4eea9bfbd4bcb93</item_stream>
+        <master_item display_value="Ready VTSKs">7aaa4fc51bfdc690f4eea9bfbd4bcb5e</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-04-24 21:36:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7aaa83091bfdc690f4eea9bfbd4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_7aaa83091bfdc690f4eea9bfbd4bcbc6</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-24 21:36:58</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

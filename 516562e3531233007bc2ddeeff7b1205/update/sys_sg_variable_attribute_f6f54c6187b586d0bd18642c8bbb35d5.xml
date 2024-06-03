@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_variable_attribute">
+    <sys_sg_variable_attribute action="INSERT_OR_UPDATE">
+        <name>FieldName</name>
+        <sys_class_name>sys_sg_variable_attribute</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-04-25 20:34:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f6f54c6187b586d0bd18642c8bbb35d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FieldName</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_variable_attribute_f6f54c6187b586d0bd18642c8bbb35d5</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-25 20:34:35</sys_updated_on>
+        <value>assignment_group</value>
+        <variable display_value="assignment_group">3ef54c6187b586d0bd18642c8bbb35d1</variable>
+    </sys_sg_variable_attribute>
+</record_update>

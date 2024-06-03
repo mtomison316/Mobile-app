@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input">
+    <sys_sg_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <autofill_variable display_value="assignment_group">941940a587b586d0bd18642c8bbb35ad</autofill_variable>
+        <category/>
+        <description/>
+        <label>Assignment group</label>
+        <mandatory>true</mandatory>
+        <name>assignment_group</name>
+        <order>10</order>
+        <page/>
+        <parameter_screen display_value="Assign validation task my team">1c190c6587b586d0bd18642c8bbb3506</parameter_screen>
+        <parameter_section/>
+        <placeholder/>
+        <readonly>false</readonly>
+        <sys_class_name>sys_sg_input</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-04-25 20:51:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1cd90ca587b586d0bd18642c8bbb3571</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignment group</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_input_1cd90ca587b586d0bd18642c8bbb3571</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-25 20:51:21</sys_updated_on>
+        <type display_value="Reference">770c605517021010f2b43b9fadb95900</type>
+    </sys_sg_input>
+</record_update>

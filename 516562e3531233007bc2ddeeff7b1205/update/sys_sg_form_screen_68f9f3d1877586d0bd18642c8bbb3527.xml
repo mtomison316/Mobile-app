@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <item_view/>
+        <name>VTSK Details</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-04-25 19:42:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>68f9f3d1877586d0bd18642c8bbb3527</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>VTSK Details</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_form_screen_68f9f3d1877586d0bd18642c8bbb3527</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-26 12:58:25</sys_updated_on>
+        <table/>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Pending VTSKs">8b7d7319877586d0bd18642c8bbb3543</view_config>
+    </sys_sg_form_screen>
+</record_update>

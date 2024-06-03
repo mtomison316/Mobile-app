@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-04-25 21:33:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fa8390a187f586d0bd18642c8bbb357a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_01_element</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_fa8390a187f586d0bd18642c8bbb357a</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-25 21:33:50</sys_updated_on>
+        <view_config display_value="Pending VTSKs">8b7d7319877586d0bd18642c8bbb3543</view_config>
+        <view_template_slot display_value="text_01">f060f3d30f202010e70a4abec4767eea</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
