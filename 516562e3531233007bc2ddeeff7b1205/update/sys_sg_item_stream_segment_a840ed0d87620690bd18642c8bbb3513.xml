@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>1000</max_offline_rows>
+        <name>Pending</name>
+        <order>10</order>
+        <screen display_value="Validation tasks">2800e54d87620690bd18642c8bbb353a</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-31 20:39:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a840ed0d87620690bd18642c8bbb3513</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Pending</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_a840ed0d87620690bd18642c8bbb3513</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-03 20:18:04</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

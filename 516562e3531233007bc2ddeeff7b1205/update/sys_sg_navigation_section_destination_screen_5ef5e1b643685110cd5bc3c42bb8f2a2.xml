@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_screen">
+    <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
+        <applet display_value="Breached incidents">a7343122b7433300295a9489de11a973</applet>
+        <background_color/>
+        <background_color_variable/>
+        <foreground_color>#0c4c89</foreground_color>
+        <foreground_color_variable/>
+        <icon display_value="Breached Incidents Clipboard Icon">acd0bb57c700001014f31fc827c260f4</icon>
+        <image/>
+        <name>Breached incidents</name>
+        <sys_class_name>sys_sg_navigation_section_destination_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-11 08:54:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5ef5e1b643685110cd5bc3c42bb8f2a2</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Breached incidents</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_screen_5ef5e1b643685110cd5bc3c42bb8f2a2</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-03 12:58:17</sys_updated_on>
+    </sys_sg_navigation_section_destination_screen>
+</record_update>

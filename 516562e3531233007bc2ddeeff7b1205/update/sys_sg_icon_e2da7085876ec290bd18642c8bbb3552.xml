@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"Font Awesome 5 Pro Regular","Value":"f1ad","FontColor":"#0c4c89","BackgroundColor":"#00c0ff","Name":"building"}</icon>
+        <name>Building - Blue</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-31 17:55:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e2da7085876ec290bd18642c8bbb3552</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Building - Blue</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_icon_e2da7085876ec290bd18642c8bbb3552</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-31 18:03:23</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
