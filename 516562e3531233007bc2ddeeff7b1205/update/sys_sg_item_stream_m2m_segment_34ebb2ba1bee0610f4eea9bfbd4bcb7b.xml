@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="My pending vtasks">3cebf27a1bee0610f4eea9bfbd4bcb99</item_stream>
+        <segment display_value="My validation tasks">f75bb27a1bee0610f4eea9bfbd4bcb36</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-06-06 13:48:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>34ebb2ba1bee0610f4eea9bfbd4bcb7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_34ebb2ba1bee0610f4eea9bfbd4bcb7b</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-06 13:48:50</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
