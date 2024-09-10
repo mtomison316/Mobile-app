@@ -8,7 +8,7 @@
         <hidden>false</hidden>
         <order>50</order>
         <record_id_field/>
-        <screen display_value="Pending VTSKs">28f9f3d1877586d0bd18642c8bbb352c</screen>
+        <screen display_value="Details">28f9f3d1877586d0bd18642c8bbb352c</screen>
         <screen_data_item_table>u_validation_task</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>MXT011</sys_created_by>
@@ -27,4 +27,18 @@
         <type>auto</type>
         <value_only>false</value_only>
     </sys_sg_screen_field>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993c0ea0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_screen_field_e22a3715877586d0bd18642c8bbb3598</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:15</sys_created_on>
+        <sys_id>210d26231b7586d0f4eea9bfbd4bcbee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:15</sys_updated_on>
+    </sys_claim>
 </record_update>

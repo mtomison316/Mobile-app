@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Added one label-value pair and number on top-left than Template 22 to suit Affected CIs related card views</description>
+        <name>Validation task</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-18 14:48:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f56c17141b63ca1010be6356bd4bcbac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validation task</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_view_template_f56c17141b63ca1010be6356bd4bcbac</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:48:52</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Id":"container_01","Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":16,"Bottom":16,"Right":16,"Left":16},"CellId":"container_01","Children":[{"Type":"Text","Id":"text_03","Margin":{"Bottom":16},"TextColorVariable":"--now-color_text--secondary","MaxLines":1,"TextAlignment":"Left","CellId":"text_03"},{"Type":"Text","TextColorVariable":"--now-color_text--primary","MaxLines":1,"Id":"text_04","CellId":"text_04","Margin":{},"TextAlignment":"Left"},{"Type":"ViewGroup","Id":"container_11","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":8},"CellId":"container_11","Children":[{"Type":"ViewGroup","Id":"container_12","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"CellId":"container_12","Children":[{"Type":"Text","CellId":"text_05","Id":"text_05","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"TextAlignment":"Left"},{"Type":"Text","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Margin":{"Left":4},"CellId":"text_06","Id":"text_06","TextAlignment":"Left"}]}]},{"Type":"ViewGroup","Id":"container_13","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":8},"CellId":"container_13","Children":[{"Type":"ViewGroup","Id":"container_14","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"CellId":"container_14","Children":[{"Type":"Text","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Margin":{},"CellId":"text_07","Id":"text_07","TextAlignment":"Left"},{"Type":"Text","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"CellId":"text_08","Id":"text_08","Margin":{"Left":4},"TextAlignment":"Left"}]}]},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Id":"container_15","CellId":"container_15","Margin":{"Top":8},"Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_16","CellId":"container_16","Children":[{"Type":"Text","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Id":"text_09","CellId":"text_09","TextAlignment":"Left"},{"Type":"Text","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Id":"text_10","CellId":"text_10","TextAlignment":"Left","Margin":{"Left":4}}]}]},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Id":"container_17","CellId":"container_17","Margin":{"Top":8},"Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_18","CellId":"container_18","Children":[{"Type":"Text","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Id":"text_11","CellId":"text_11","TextAlignment":"Left"},{"Type":"Text","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"Id":"text_12","CellId":"text_12","TextAlignment":"Left","Margin":{"Left":4}}]}]}]}</template_json>
+    </sys_sg_view_template>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53d6cc0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_view_template_f56c17141b63ca1010be6356bd4bcbac</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:07</sys_created_on>
+        <sys_id>430ddd7193641e90a736f04b6aba1021</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:07</sys_updated_on>
+    </sys_claim>
+</record_update>

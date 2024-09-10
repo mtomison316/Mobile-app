@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Validated">89ffb4c61b628a90f4eea9bfbd4bcb19</button>
+        <color_theme>positive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Validated</label>
+        <location>trailing_swipe</location>
+        <name>Ready to validated</name>
+        <order>20</order>
+        <parent>d0f42d0987a20690bd18642c8bbb358b</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-06-03 20:51:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4dffb4c61b628a90f4eea9bfbd4bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ready to validated</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_button_instance_4dffb4c61b628a90f4eea9bfbd4bcb1e</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-03 20:51:55</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</application>
+        <comments/>
+        <file_path/>
+        <instance_id>a5c8446d0a0a3c7b0119a19c66620d52</instance_id>
+        <instance_name>umbtest</instance_name>
+        <name>sys_sg_button_instance_4dffb4c61b628a90f4eea9bfbd4bcb1e</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Validated">89ffb4c61b628a90f4eea9bfbd4bcb19</button><color_theme>positive</color_theme><description/><disable_offline>false</disable_offline><field_name/><icon/><label>Validated</label><location>trailing_swipe</location><name>Ready to validated</name><order>20</order><parent>d0f42d0987a20690bd18642c8bbb358b</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>MXT011</sys_created_by><sys_created_on>2024-06-03 20:51:55</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>4dffb4c61b628a90f4eea9bfbd4bcb1e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ready to validated</sys_name><sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope><sys_update_name>sys_sg_button_instance_4dffb4c61b628a90f4eea9bfbd4bcb1e</sys_update_name><sys_updated_by>MXT011</sys_updated_by><sys_updated_on>2024-06-03 20:51:55</sys_updated_on><table/></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>-1645200900</payload_hash>
+        <record_name>Ready to validated</record_name>
+        <reverted_from/>
+        <source>b0cd4d861be64a10cf97a9bfbd4bcb35</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-06-03 21:52:19</sys_created_on>
+        <sys_id>b5cdcd861be64a10cf97a9bfbd4bcbeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fe016c5010000001</sys_recorded_at>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-03 21:52:19</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>8dffb4c626628a903bfeedc1591bc120</update_guid>
+        <update_guid_history>8dffb4c626628a903bfeedc1591bc120:-1645200900</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-05 13:37:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>0fe4d16aa49f4118843cf9eb0d1cda59</sys_id>
+        <sys_metadata>4dffb4c61b628a90f4eea9bfbd4bcb1e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ready to validated</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_scope_delete display_value="">8477b1bbe10647b098602fbf22460a40</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_4dffb4c61b628a90f4eea9bfbd4bcb1e</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_4dffb4c61b628a90f4eea9bfbd4bcb1e">b5cdcd861be64a10cf97a9bfbd4bcbeb</sys_update_version>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-05 13:37:25</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53dbca0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_button_instance_4dffb4c61b628a90f4eea9bfbd4bcb1e</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:08</sys_created_on>
+        <sys_id>1b0ddd7193641e90a736f04b6aba10e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:08</sys_updated_on>
+    </sys_claim>
+</record_update>

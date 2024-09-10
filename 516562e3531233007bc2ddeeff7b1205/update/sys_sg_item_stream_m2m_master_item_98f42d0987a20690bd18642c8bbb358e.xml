@@ -17,4 +17,18 @@
         <sys_updated_by>MXT011</sys_updated_by>
         <sys_updated_on>2024-05-31 20:59:36</sys_updated_on>
     </sys_sg_item_stream_m2m_master_item>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53dc740000001</claim_timestamp>
+        <metadata_update_name>sys_sg_item_stream_m2m_master_item_98f42d0987a20690bd18642c8bbb358e</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:09</sys_created_on>
+        <sys_id>9b0ddd7193641e90a736f04b6aba10f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:09</sys_updated_on>
+    </sys_claim>
 </record_update>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition_script>event.parm1 == 'sn_itsm_mobile_agt'</condition_script>
+        <description/>
+        <event_name>plugin.upgraded</event_name>
+        <name>Run clean upgrade for ITSM Mobile Agent</name>
+        <order>100</order>
+        <script>var upgradeEngine = new sn_itsm_mobile_agt.MobileUtahUpgradeEngine();
+
+upgradeEngine.cleanUpgradeButtonInstance();
+upgradeEngine.cleanUpgradeLegacyCards();
+upgradeEngine.cleanUpgradeIconSections();
+if (GlidePluginManager.isActive("com.sn_shift_planning")) {
+    var wfoUpgradeUtil = new sn_itsm_mobile_agt.MobileWFOUpgradeUtil();
+    wfoUpgradeUtil.hideSectionsIfEnabled();
+    gs.info("On-call section is hidden");
+}
+var gr = new GlideRecord("sysevent_script_action");
+gr.get("sys_id", "68c90a27430a1110cd5b8beeaab8f23c");
+if (gr.isValidRecord()) {
+    gr.setValue("active", false);
+    gr.update();
+    gs.info("Deactivated event script action to prevent running multiple times");
+}</script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-26 09:02:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>68c90a27430a1110cd5b8beeaab8f23c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Run clean upgrade for ITSM Mobile Agent</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sysevent_script_action_68c90a27430a1110cd5b8beeaab8f23c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-02-03 18:07:22</sys_updated_on>
+    </sysevent_script_action>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993c7350000001</claim_timestamp>
+        <metadata_update_name>sysevent_script_action_68c90a27430a1110cd5b8beeaab8f23c</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:17</sys_created_on>
+        <sys_id>420d66231b7586d0f4eea9bfbd4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:17</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -81,4 +81,18 @@
         <write_back_action_item display_value="Reassign validation task">cc13539187b186d0bd18642c8bbb35e6</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993be610000001</claim_timestamp>
+        <metadata_update_name>sys_sg_button_8413539187b186d0bd18642c8bbb35eb</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:14</sys_created_on>
+        <sys_id>a10d26231b7586d0f4eea9bfbd4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:14</sys_updated_on>
+    </sys_claim>
 </record_update>

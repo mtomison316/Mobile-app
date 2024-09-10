@@ -5,7 +5,7 @@
         <max_offline_rows>500</max_offline_rows>
         <name>Ready</name>
         <order>20</order>
-        <screen display_value="Validation tasks">2800e54d87620690bd18642c8bbb353a</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>MXT011</sys_created_by>
         <sys_created_on>2024-05-31 20:54:15</sys_created_on>
@@ -21,4 +21,18 @@
         <sys_updated_by>MXT011</sys_updated_by>
         <sys_updated_on>2024-05-31 20:54:15</sys_updated_on>
     </sys_sg_item_stream_segment>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53d5f20000001</claim_timestamp>
+        <metadata_update_name>sys_sg_item_stream_segment_82b32d0587a20690bd18642c8bbb355b</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:07</sys_created_on>
+        <sys_id>0b0d9d7193641e90a736f04b6aba10ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:07</sys_updated_on>
+    </sys_claim>
 </record_update>

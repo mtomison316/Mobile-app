@@ -20,4 +20,18 @@
         <value>u_status</value>
         <view_config_element display_value="text_01_element">0b2410e187f586d0bd18642c8bbb353f</view_config_element>
     </sys_sg_view_config_element_attribute>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993c0580000001</claim_timestamp>
+        <metadata_update_name>sys_sg_view_config_element_attribute_072410e187f586d0bd18642c8bbb3542</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:15</sys_created_on>
+        <sys_id>250d26231b7586d0f4eea9bfbd4bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:15</sys_updated_on>
+    </sys_claim>
 </record_update>

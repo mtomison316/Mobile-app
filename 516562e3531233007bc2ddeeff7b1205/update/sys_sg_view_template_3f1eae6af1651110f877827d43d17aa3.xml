@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
     <sys_sg_view_template action="INSERT_OR_UPDATE">
         <active>true</active>
-        <description>Added label value pair</description>
-        <name>Template 02 ITSM variation 1</name>
+        <description>Validation Task</description>
+        <name>Vtask Record</name>
         <preview_image>7aae5ff677611110c05d885d9f5a99c1</preview_image>
         <root_view_attrs_json/>
         <sys_class_name>sys_sg_view_template</sys_class_name>
@@ -10,15 +10,15 @@
         <sys_created_on>2022-08-29 12:33:58</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>3f1eae6af1651110f877827d43d17aa3</sys_id>
-        <sys_mod_count>25</sys_mod_count>
-        <sys_name>Template 02 ITSM variation 1</sys_name>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_name>Vtask Record</sys_name>
         <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
         <sys_update_name>sys_sg_view_template_3f1eae6af1651110f877827d43d17aa3</sys_update_name>
         <sys_updated_by>MXT011</sys_updated_by>
-        <sys_updated_on>2024-02-09 16:45:10</sys_updated_on>
+        <sys_updated_on>2024-04-11 21:07:51</sys_updated_on>
         <template_json>{"Type":"ViewGroup","Id":"root","Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":16,"Bottom":16,"Right":16,"Left":16},"CellId":"root","Children":[{"Type":"ViewGroup","Id":"container_02","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","CellId":"container_02","Children":[{"Type":"ViewGroup","Id":"container_03","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","CellId":"container_03","Children":[{"Type":"ViewGroup","Id":"container_04","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Height":24,"Margin":{"Top":2,"Right":6,"Bottom":2,"Left":6},"Background":{"Type":"Color","Opacity":1,"Color":"#CBE9FC","ColorVariable":"--now-color_alert--info-0","CellId":"Background_container_04","Id":"Background_container_04"},"CellId":"container_04","CornerRadius":3,"Children":[{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","Font":{"Size":10},"Margin":{"Right":4},"TextAlignment":"Left","CellId":"text_decorator_01","Id":"text_decorator_01","MaxLines":1},{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","MaxLines":1,"Margin":{},"TextAlignment":"Left","CellId":"text_01","Id":"text_01"}]}]},{"Type":"ViewGroup","Id":"container_05","Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","CellId":"container_05","Children":[{"Type":"Text","TextColor":"#2C323F","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"textStyle":"custom","TextAlignment":"Right","CellId":"text_02","Id":"text_02"}]}]},{"Type":"ViewGroup","Id":"container_06","Margin":{"Top":14},"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","CellId":"container_06","Children":[{"Type":"ViewGroup","Id":"container_07","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","CellId":"container_07","Children":[{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","MaxLines":1,"textStyle":"custom","CellId":"text_03","Id":"text_03","Margin":{"Bottom":8},"TextAlignment":"Left"},{"Type":"ViewGroup","Id":"container_08","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","CellId":"container_08","Children":[{"Type":"Text","TextColor":"#2C323F","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"textStyle":"custom","CellId":"text_04","Id":"text_04","TextAlignment":"Left"},{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","MaxLines":1,"textStyle":"custom","CellId":"text_05","Id":"text_05","Margin":{"Left":4},"TextAlignment":"Left"},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Center","Distribution":"Auto","Id":"container_09","CellId":"container_09","Margin":{"Right":4,"Left":4},"Children":[{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","MaxLines":1,"Id":"text_11","CellId":"text_11","TextAlignment":"Left"}]},{"Type":"Text","TextColor":"#2C323F","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"textStyle":"custom","CellId":"text_06","Id":"text_06","TextAlignment":"Left"},{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","MaxLines":1,"textStyle":"custom","Margin":{"Left":4},"CellId":"text_07","Id":"text_07","TextAlignment":"Left"}]}]},{"Type":"ViewGroup","Id":"container_10","Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Margin":{"Left":8},"Width":80,"CellId":"container_10","Children":[{"Type":"Image","Scaling":"fill","CellId":"image_01","Id":"image_01","Height":60,"Width":60}]}]},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Id":"container_13","CellId":"container_13","Margin":{"Top":8},"Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_15","CellId":"container_15","Children":[{"Type":"Text","TextColor":"#2C323F","TextColorVariable":"--now-color_text--secondary","textStyle":"custom","MaxLines":1,"Id":"text_12","CellId":"text_12","TextAlignment":"Left"},{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","textStyle":"custom","MaxLines":1,"Id":"text_13","CellId":"text_13","TextAlignment":"Left","Margin":{"Left":4}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Left","Distribution":"Auto","Id":"container_19","CellId":"container_19","Children":[{"Type":"Text","TextColor":"#151920","MaxLines":1,"Id":"text_19","CellId":"text_19"},{"Type":"Text","TextColor":"#151920","MaxLines":1,"Id":"text_17","CellId":"text_17"}]}]},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":8},"Id":"container_17","CellId":"container_17","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Id":"container_18","CellId":"container_18","Children":[{"Type":"Text","TextColor":"#2C323F","TextColorVariable":"--now-color_text--secondary","textStyle":"custom","MaxLines":1,"Id":"text_15","CellId":"text_15","TextAlignment":"Left"},{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","textStyle":"custom","MaxLines":1,"Id":"text_16","CellId":"text_16","TextAlignment":"Left","Margin":{"Left":4}}]}]},{"Type":"ViewGroup","Id":"container_11","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","CellId":"container_11","Margin":{"Top":8},"Children":[{"Type":"ViewGroup","Id":"container_12","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"CellId":"container_12","Children":[{"Type":"Image","CellId":"image_02","Id":"image_02","Scaling":"Fill","Height":24,"Width":24,"CornerRadius":12,"Margin":{"Right":8}},{"Type":"Text","TextColor":"#2C323F","TextColorVariable":"--now-color_text--secondary","MaxLines":1,"textStyle":"custom","Margin":{"Right":4},"CellId":"text_08","Id":"text_08","TextAlignment":"Left"},{"Type":"Text","TextColor":"#151920","TextColorVariable":"--now-color_text--primary","MaxLines":1,"textStyle":"custom","Margin":{},"CellId":"text_09","Id":"text_09","TextAlignment":"Left"}]}]}]}</template_json>
     </sys_sg_view_template>
     <sys_attachment action="INSERT_OR_UPDATE">
@@ -61,4 +61,18 @@
         <sys_created_on>2022-08-30 10:44:34</sys_created_on>
         <sys_id>3eae5ff677611110c05d885d9f5a99c1</sys_id>
     </sys_attachment_doc>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993beb70000001</claim_timestamp>
+        <metadata_update_name>sys_sg_view_template_3f1eae6af1651110f877827d43d17aa3</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:15</sys_created_on>
+        <sys_id>650d26231b7586d0f4eea9bfbd4bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:15</sys_updated_on>
+    </sys_claim>
 </record_update>

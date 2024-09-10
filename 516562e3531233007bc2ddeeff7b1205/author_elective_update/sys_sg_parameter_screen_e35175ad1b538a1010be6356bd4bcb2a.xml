@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_parameter_screen">
+    <sys_sg_parameter_screen action="DELETE">
+        <active>true</active>
+        <advanced>true</advanced>
+        <available_offline>false</available_offline>
+        <cancel_label>Cancel</cancel_label>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <header_only_on_first_page>false</header_only_on_first_page>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>Cancel vtask input form screen</name>
+        <next_label>Next</next_label>
+        <pagination_type>all</pagination_type>
+        <prev_label>Previous</prev_label>
+        <reset_after_submit>false</reset_after_submit>
+        <resume>false</resume>
+        <roles_override/>
+        <submit_label>Submit</submit_label>
+        <sys_class_name>sys_sg_parameter_screen</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-09 17:57:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e35175ad1b538a1010be6356bd4bcb2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancel vtask input form screen</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_parameter_screen_e35175ad1b538a1010be6356bd4bcb2a</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-09 17:57:56</sys_updated_on>
+        <type display_value="">string</type>
+        <view_config/>
+    </sys_sg_parameter_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</application>
+        <comments/>
+        <file_path/>
+        <instance_id>a5c8446d0a0a3c7b0119a19c66620d52</instance_id>
+        <instance_name>umbtest</instance_name>
+        <name>sys_sg_parameter_screen_e35175ad1b538a1010be6356bd4bcb2a</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_parameter_screen"><sys_sg_parameter_screen action="INSERT_OR_UPDATE"><active>true</active><advanced>true</advanced><available_offline>false</available_offline><cancel_label>Cancel</cancel_label><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><header_only_on_first_page>false</header_only_on_first_page><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon/><name>Cancel vtask input form screen</name><next_label>Next</next_label><pagination_type>all</pagination_type><prev_label>Previous</prev_label><reset_after_submit>false</reset_after_submit><resume>false</resume><roles_override/><submit_label>Submit</submit_label><sys_class_name>sys_sg_parameter_screen</sys_class_name><sys_created_by>MXT011</sys_created_by><sys_created_on>2024-07-09 17:57:56</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>e35175ad1b538a1010be6356bd4bcb2a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cancel vtask input form screen</sys_name><sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope><sys_update_name>sys_sg_parameter_screen_e35175ad1b538a1010be6356bd4bcb2a</sys_update_name><sys_updated_by>MXT011</sys_updated_by><sys_updated_on>2024-07-09 17:57:56</sys_updated_on><type display_value="">string</type><view_config/></sys_sg_parameter_screen></record_update>]]></payload>
+        <payload_hash>-102396806</payload_hash>
+        <record_name>Cancel vtask input form screen</record_name>
+        <reverted_from/>
+        <source>58e5bfff4708c618809ff597536d4305</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-09 17:57:56</sys_created_on>
+        <sys_id>e35175ad1b538a1010be6356bd4bcb2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19098a51f330000001</sys_recorded_at>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-09 17:57:56</sys_updated_on>
+        <type>Input form screen</type>
+        <update_guid>a75175add0538a108e517e329754df2d</update_guid>
+        <update_guid_history>a75175add0538a108e517e329754df2d:-102396806</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-18 13:25:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_parameter_screen">sys_sg_parameter_screen</sys_db_object>
+        <sys_id>62aae16ff45a4a25b84094e8128b9d39</sys_id>
+        <sys_metadata>e35175ad1b538a1010be6356bd4bcb2a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancel vtask input form screen</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_scope_delete display_value="">8477b1bbe10647b098602fbf22460a40</sys_scope_delete>
+        <sys_update_name>sys_sg_parameter_screen_e35175ad1b538a1010be6356bd4bcb2a</sys_update_name>
+        <sys_update_version display_value="sys_sg_parameter_screen_e35175ad1b538a1010be6356bd4bcb2a">e35175ad1b538a1010be6356bd4bcb2e</sys_update_version>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-18 13:25:08</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53d94b0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_parameter_screen_e35175ad1b538a1010be6356bd4bcb2a</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:08</sys_created_on>
+        <sys_id>470ddd7193641e90a736f04b6aba1088</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:08</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
     <sys_sg_item_stream action="INSERT_OR_UPDATE">
-        <data_item display_value="Validation Tasks">d077b89787384610bd18642c8bbb35ec</data_item>
+        <data_item/>
         <interleaved_field/>
         <name>Vtasks Ready for Validation</name>
         <sys_class_name>sys_sg_item_stream</sys_class_name>
@@ -19,4 +19,18 @@
         <sys_updated_on>2024-04-22 19:22:43</sys_updated_on>
         <table>u_validation_task</table>
     </sys_sg_item_stream>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993c8ba0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_item_stream_b14aa7d887b902d0bd18642c8bbb3534</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:17</sys_created_on>
+        <sys_id>4e0d66231b7586d0f4eea9bfbd4bcbbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:17</sys_updated_on>
+    </sys_claim>
 </record_update>

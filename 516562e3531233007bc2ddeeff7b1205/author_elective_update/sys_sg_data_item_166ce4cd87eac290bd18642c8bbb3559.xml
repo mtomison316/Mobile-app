@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Pending validations</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="u_validation_task">active=true^u_status=Pending^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_value="Pending" endquery="false" field="u_status" goto="false" newquery="false" operator="=" or="false" value="Pending"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-31 16:52:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>166ce4cd87eac290bd18642c8bbb3559</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending validations</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_data_item_166ce4cd87eac290bd18642c8bbb3559</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-31 16:52:37</sys_updated_on>
+        <table>u_validation_task</table>
+    </sys_sg_data_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</application>
+        <comments/>
+        <file_path/>
+        <instance_id>a5c8766d0a0a3c7b0064b5ab29d491bd</instance_id>
+        <instance_name>umbdev</instance_name>
+        <name>sys_sg_data_item_166ce4cd87eac290bd18642c8bbb3559</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Pending validations</name><offline_query_condition/><offline_query_condition_script/><query_condition table="u_validation_task">active=true^u_status=Pending^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item display_value="Pending" endquery="false" field="u_status" goto="false" newquery="false" operator="=" or="false" value="Pending"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>MXT011</sys_created_by><sys_created_on>2024-05-31 16:52:37</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>166ce4cd87eac290bd18642c8bbb3559</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pending validations</sys_name><sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope><sys_update_name>sys_sg_data_item_166ce4cd87eac290bd18642c8bbb3559</sys_update_name><sys_updated_by>MXT011</sys_updated_by><sys_updated_on>2024-05-31 16:52:37</sys_updated_on><table>u_validation_task</table></sys_sg_data_item></record_update>]]></payload>
+        <payload_hash>-1770132264</payload_hash>
+        <record_name>Pending validations</record_name>
+        <reverted_from/>
+        <source>b15876c0879a0610bd18642c8bbb3517</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-31 16:52:37</sys_created_on>
+        <sys_id>566ce4cd87eac290bd18642c8bbb355c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fcf914d640000001</sys_recorded_at>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-31 16:52:37</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>1a6ce4cdcbeac2903ba965d70935395b</update_guid>
+        <update_guid_history>1a6ce4cdcbeac2903ba965d70935395b:-1770132264</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-31 18:55:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>59b0af4fb9874368a7108c3ffd9511c1</sys_id>
+        <sys_metadata>166ce4cd87eac290bd18642c8bbb3559</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending validations</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_scope_delete display_value="">8477b1bbe10647b098602fbf22460a40</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_166ce4cd87eac290bd18642c8bbb3559</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_166ce4cd87eac290bd18642c8bbb3559">566ce4cd87eac290bd18642c8bbb355c</sys_update_version>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-31 18:55:47</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53d3a30000001</claim_timestamp>
+        <metadata_update_name>sys_sg_data_item_166ce4cd87eac290bd18642c8bbb3559</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:06</sys_created_on>
+        <sys_id>3e0d9d7193641e90a736f04b6aba1090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:06</sys_updated_on>
+    </sys_claim>
+</record_update>

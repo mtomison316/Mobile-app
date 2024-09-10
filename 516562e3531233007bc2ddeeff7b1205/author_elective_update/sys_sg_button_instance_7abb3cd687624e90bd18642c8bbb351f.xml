@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Pending to canceled">22bb3cd687624e90bd18642c8bbb351c</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Cancel</label>
+        <location>footer</location>
+        <name>Pending to canceled</name>
+        <order>10</order>
+        <parent>5b0a305687624e90bd18642c8bbb3565</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-06-04 15:11:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7abb3cd687624e90bd18642c8bbb351f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending to canceled</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_button_instance_7abb3cd687624e90bd18642c8bbb351f</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-04 15:11:57</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</application>
+        <comments/>
+        <file_path/>
+        <instance_id>a5c8766d0a0a3c7b0064b5ab29d491bd</instance_id>
+        <instance_name>umbdev</instance_name>
+        <name>sys_sg_button_instance_7abb3cd687624e90bd18642c8bbb351f</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Pending to canceled">22bb3cd687624e90bd18642c8bbb351c</button><color_theme>destructive</color_theme><description/><disable_offline>false</disable_offline><field_name/><icon/><label>Cancel</label><location>footer</location><name>Pending to canceled</name><order>10</order><parent>5b0a305687624e90bd18642c8bbb3565</parent><parent_table>sys_sg_details_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>MXT011</sys_created_by><sys_created_on>2024-06-04 15:11:57</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>7abb3cd687624e90bd18642c8bbb351f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pending to canceled</sys_name><sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope><sys_update_name>sys_sg_button_instance_7abb3cd687624e90bd18642c8bbb351f</sys_update_name><sys_updated_by>MXT011</sys_updated_by><sys_updated_on>2024-06-04 15:11:57</sys_updated_on><table/></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>-780841733</payload_hash>
+        <record_name>Pending to canceled</record_name>
+        <reverted_from/>
+        <source>396b645687ee0e90bd18642c8bbb35c0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-06-04 15:11:57</sys_created_on>
+        <sys_id>72bb3cd687624e90bd18642c8bbb3522</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fe3ce93d00000001</sys_recorded_at>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-04 15:11:57</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>36bb3cd64e624e90b38a2c2aedfa6d21</update_guid>
+        <update_guid_history>36bb3cd64e624e90b38a2c2aedfa6d21:-780841733</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-06-04 15:50:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>1c6c08f04df4488ab9f17106a3b7eea4</sys_id>
+        <sys_metadata>7abb3cd687624e90bd18642c8bbb351f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pending to canceled</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_scope_delete display_value="">8477b1bbe10647b098602fbf22460a40</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_7abb3cd687624e90bd18642c8bbb351f</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_7abb3cd687624e90bd18642c8bbb351f">72bb3cd687624e90bd18642c8bbb3522</sys_update_version>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-04 15:50:25</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53d8560000001</claim_timestamp>
+        <metadata_update_name>sys_sg_button_instance_7abb3cd687624e90bd18642c8bbb351f</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:08</sys_created_on>
+        <sys_id>830ddd7193641e90a736f04b6aba105f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:08</sys_updated_on>
+    </sys_claim>
+</record_update>

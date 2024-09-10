@@ -36,4 +36,18 @@
         <use_view_config>true</use_view_config>
         <view_config display_value="Validation Task">faaa4fc51bfdc690f4eea9bfbd4bcb5a</view_config>
     </sys_sg_form_screen>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993bcbf0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_form_screen_eb4d0f491bfdc690f4eea9bfbd4bcb18</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:14</sys_created_on>
+        <sys_id>dd0d26231b7586d0f4eea9bfbd4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:14</sys_updated_on>
+    </sys_claim>
 </record_update>

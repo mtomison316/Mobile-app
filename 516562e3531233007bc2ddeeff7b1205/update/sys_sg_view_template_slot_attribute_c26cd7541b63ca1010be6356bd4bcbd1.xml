@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute">
+    <sys_sg_view_template_slot_attribute action="INSERT_OR_UPDATE">
+        <description>text_10_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-18 14:48:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c26cd7541b63ca1010be6356bd4bcbd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_attribute_c26cd7541b63ca1010be6356bd4bcbd1</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:48:53</sys_updated_on>
+        <translated_value/>
+        <value/>
+        <view_template_slot display_value="text_10">826cd7541b63ca1010be6356bd4bcbcc</view_template_slot>
+    </sys_sg_view_template_slot_attribute>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53d4d00000001</claim_timestamp>
+        <metadata_update_name>sys_sg_view_template_slot_attribute_c26cd7541b63ca1010be6356bd4bcbd1</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:07</sys_created_on>
+        <sys_id>f60d9d7193641e90a736f04b6aba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:07</sys_updated_on>
+    </sys_claim>
+</record_update>

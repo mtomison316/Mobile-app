@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_screen">
     <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
-        <applet display_value="Validation tasks">da538d551b294250f4eea9bfbd4bcbda</applet>
+        <applet/>
         <background_color/>
         <background_color_variable/>
         <foreground_color/>
@@ -23,4 +23,18 @@
         <sys_updated_by>MXT011</sys_updated_by>
         <sys_updated_on>2024-04-12 20:08:31</sys_updated_on>
     </sys_sg_navigation_section_destination_screen>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993c43f0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_navigation_section_destination_screen_1754ef9b1ba84a54f4eea9bfbd4bcbd3</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:16</sys_created_on>
+        <sys_id>f50d66231b7586d0f4eea9bfbd4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:16</sys_updated_on>
+    </sys_claim>
 </record_update>
