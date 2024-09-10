@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-05-16 15:00:55</sys_created_on>
+        <sys_id>8d0de2231b7586d0f4eea9bfbd4bcba2</sys_id>
+        <sys_mod_count>479</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:05</sys_updated_on>
+        <vendor_app display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</vendor_app>
+        <vendor_app_version>8.2.2</vendor_app_version>
+        <version>1.0.1</version>
+        <war_version>glide-washingtondc-12-20-2023__patch6-07-17-2024_07-27-2024_1026.zip</war_version>
+    </sys_app_customization>
+</record_update>

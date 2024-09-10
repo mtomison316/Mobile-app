@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="DELETE">
+        <condition_order>30</condition_order>
+        <datasource_table>u_validation_task</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen/>
+        <item_view/>
+        <name>My completed validation tasks</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-06-06 19:52:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>991f48c31baa4610f4eea9bfbd4bcbff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My completed validation tasks</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_master_item_991f48c31baa4610f4eea9bfbd4bcbff</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-06-06 20:05:22</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config/>
+    </sys_sg_master_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</application>
+        <comments/>
+        <file_path/>
+        <instance_id>a5c8446d0a0a3c7b0119a19c66620d52</instance_id>
+        <instance_name>umbtest</instance_name>
+        <name>sys_sg_master_item_991f48c31baa4610f4eea9bfbd4bcbff</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item"><sys_sg_master_item action="INSERT_OR_UPDATE"><condition_order>30</condition_order><datasource_table>u_validation_task</datasource_table><datasource_table_condition/><embedded_screen/><item_view/><name>My completed validation tasks</name><sys_class_name>sys_sg_master_item</sys_class_name><sys_created_by>MXT011</sys_created_by><sys_created_on>2024-06-06 19:52:19</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>991f48c31baa4610f4eea9bfbd4bcbff</sys_id><sys_mod_count>1</sys_mod_count><sys_name>My completed validation tasks</sys_name><sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope><sys_update_name>sys_sg_master_item_991f48c31baa4610f4eea9bfbd4bcbff</sys_update_name><sys_updated_by>MXT011</sys_updated_by><sys_updated_on>2024-06-06 20:05:22</sys_updated_on><use_view_config>true</use_view_config><view_config/></sys_sg_master_item></record_update>]]></payload>
+        <payload_hash>1875052428</payload_hash>
+        <record_name>My completed validation tasks</record_name>
+        <reverted_from/>
+        <source>58e5bfff4708c618809ff597536d4305</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-18 13:54:49</sys_created_on>
+        <sys_id>ca009b901b23ca1010be6356bd4bcbaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190c61fc7e50000001</sys_recorded_at>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-18 13:54:49</sys_updated_on>
+        <type>List item config</type>
+        <update_guid>c6009b90de23ca1084d4c6aa9b0429af</update_guid>
+        <update_guid_history>c6009b90de23ca1084d4c6aa9b0429af:0,718d8f9c79ef8a1067b57ad2a627aa04:0,e812dc4b2eaa46105ae72f19dcd7612d:-1180928772,991f88c37faa46109fd4640feb025a01:1051374916</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-18 13:54:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_master_item">sys_sg_master_item</sys_db_object>
+        <sys_id>6b495b054e084db5ae101b92aee763a1</sys_id>
+        <sys_metadata>991f48c31baa4610f4eea9bfbd4bcbff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My completed validation tasks</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_scope_delete display_value="">8477b1bbe10647b098602fbf22460a40</sys_scope_delete>
+        <sys_update_name>sys_sg_master_item_991f48c31baa4610f4eea9bfbd4bcbff</sys_update_name>
+        <sys_update_version display_value="sys_sg_master_item_991f48c31baa4610f4eea9bfbd4bcbff">ca009b901b23ca1010be6356bd4bcbaf</sys_update_version>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-18 13:54:55</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53dea50000001</claim_timestamp>
+        <metadata_update_name>sys_sg_master_item_991f48c31baa4610f4eea9bfbd4bcbff</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:09</sys_created_on>
+        <sys_id>ef0d11b193641e90a736f04b6aba1050</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:09</sys_updated_on>
+    </sys_claim>
+</record_update>

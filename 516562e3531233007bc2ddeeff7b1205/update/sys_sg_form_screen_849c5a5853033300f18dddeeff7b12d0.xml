@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My Approvals Icon">049c5a5853033300f18dddeeff7b12cd</icon>
+        <item_view display_value="RITM Approval Details Item View">38f8966e87203300e0ef0cf888cb0bb2</item_view>
+        <name>My approvals</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>small</segments_height>
+        <segments_min_width>small</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-30 23:58:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>849c5a5853033300f18dddeeff7b12d0</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>My approvals</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_form_screen_849c5a5853033300f18dddeeff7b12d0</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-10 20:20:37</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My approvals - change request">3e915f8d77795110c05d885d9f5a995c</view_config>
+    </sys_sg_form_screen>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f81c180d70000001</claim_timestamp>
+        <metadata_update_name>sys_sg_form_screen_849c5a5853033300f18dddeeff7b12d0</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-16 14:14:53</sys_created_on>
+        <sys_id>6578fa04879a0610bd18642c8bbb3509</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-16 14:14:53</sys_updated_on>
+    </sys_claim>
+</record_update>

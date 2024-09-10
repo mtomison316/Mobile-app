@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_screen">
+    <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
+        <applet/>
+        <background_color/>
+        <background_color_variable/>
+        <foreground_color/>
+        <foreground_color_variable/>
+        <icon display_value="icon-Clipboard-Lines">47332e72b7433300295a9489de11a9b7</icon>
+        <image/>
+        <name>Validation tasks</name>
+        <sys_class_name>sys_sg_navigation_section_destination_screen</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-04-22 19:17:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>39a7102087fd02d0bd18642c8bbb35ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validation tasks</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_screen_39a7102087fd02d0bd18642c8bbb35ea</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-22 19:17:52</sys_updated_on>
+    </sys_sg_navigation_section_destination_screen>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993c1a80000001</claim_timestamp>
+        <metadata_update_name>sys_sg_navigation_section_destination_screen_39a7102087fd02d0bd18642c8bbb35ea</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:15</sys_created_on>
+        <sys_id>f10d26231b7586d0f4eea9bfbd4bcbff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:15</sys_updated_on>
+    </sys_claim>
+</record_update>

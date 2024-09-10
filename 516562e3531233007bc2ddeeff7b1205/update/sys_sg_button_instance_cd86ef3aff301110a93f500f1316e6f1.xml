@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <button display_value="Incident creation My work">58ca6df0ff7c1110a93f500f1316e6f6</button>
+        <color_theme/>
+        <description>Creating an incident using quick action </description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="icon-Plus-Solid">f78238d487352010ca99e12397cb0b54</icon>
+        <label>Open an incident</label>
+        <location>quick_action</location>
+        <name>Open an incident My work Quick action</name>
+        <order/>
+        <parent>dbb06f2553f633007bc2ddeeff7b1251</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-24 04:33:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cd86ef3aff301110a93f500f1316e6f1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Open an incident My work Quick action</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_button_instance_cd86ef3aff301110a93f500f1316e6f1</sys_update_name>
+        <sys_updated_by>MAB005</sys_updated_by>
+        <sys_updated_on>2024-03-24 23:17:42</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993c0250000001</claim_timestamp>
+        <metadata_update_name>sys_sg_button_instance_cd86ef3aff301110a93f500f1316e6f1</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:15</sys_created_on>
+        <sys_id>e50d26231b7586d0f4eea9bfbd4bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:15</sys_updated_on>
+    </sys_claim>
+</record_update>

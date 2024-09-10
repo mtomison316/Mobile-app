@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute">
+    <sys_sg_input_attribute action="DELETE">
+        <input display_value="Configuration item">bce62822879a4250bd18642c8bbb35b5</input>
+        <name>SearchType</name>
+        <sys_class_name>sys_sg_input_attribute</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-23 22:03:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b4e62822879a4250bd18642c8bbb35c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SearchType</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_input_attribute_b4e62822879a4250bd18642c8bbb35c5</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-23 22:03:40</sys_updated_on>
+        <value>contains</value>
+    </sys_sg_input_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</application>
+        <comments/>
+        <file_path/>
+        <instance_id>a5c8766d0a0a3c7b0064b5ab29d491bd</instance_id>
+        <instance_name>umbdev</instance_name>
+        <name>sys_sg_input_attribute_b4e62822879a4250bd18642c8bbb35c5</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute"><sys_sg_input_attribute action="INSERT_OR_UPDATE"><input display_value="Configuration item">bce62822879a4250bd18642c8bbb35b5</input><name>SearchType</name><sys_class_name>sys_sg_input_attribute</sys_class_name><sys_created_by>MXT011</sys_created_by><sys_created_on>2024-05-23 22:03:40</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b4e62822879a4250bd18642c8bbb35c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SearchType</sys_name><sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope><sys_update_name>sys_sg_input_attribute_b4e62822879a4250bd18642c8bbb35c5</sys_update_name><sys_updated_by>MXT011</sys_updated_by><sys_updated_on>2024-05-23 22:03:40</sys_updated_on><value>contains</value></sys_sg_input_attribute></record_update>]]></payload>
+        <payload_hash>1427519063</payload_hash>
+        <record_name>SearchType</record_name>
+        <reverted_from/>
+        <source>b15876c0879a0610bd18642c8bbb3517</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-23 22:03:40</sys_created_on>
+        <sys_id>b4e62822879a4250bd18642c8bbb35c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fa77b35230000001</sys_recorded_at>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-23 22:03:40</sys_updated_on>
+        <type>Input Attribute</type>
+        <update_guid>78e62822239a425094f297cc4b7945c6</update_guid>
+        <update_guid_history>78e62822239a425094f297cc4b7945c6:1427519063</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-31 18:53:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_input_attribute">sys_sg_input_attribute</sys_db_object>
+        <sys_id>27cfb9eb9ba44db89c7fbb10d4642729</sys_id>
+        <sys_metadata>b4e62822879a4250bd18642c8bbb35c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SearchType</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_scope_delete display_value="">8477b1bbe10647b098602fbf22460a40</sys_scope_delete>
+        <sys_update_name>sys_sg_input_attribute_b4e62822879a4250bd18642c8bbb35c5</sys_update_name>
+        <sys_update_version display_value="sys_sg_input_attribute_b4e62822879a4250bd18642c8bbb35c5">b4e62822879a4250bd18642c8bbb35c7</sys_update_version>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-31 18:53:02</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53dd5a0000001</claim_timestamp>
+        <metadata_update_name>sys_sg_input_attribute_b4e62822879a4250bd18642c8bbb35c5</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:09</sys_created_on>
+        <sys_id>df0d11b193641e90a736f04b6aba1012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:09</sys_updated_on>
+    </sys_claim>
+</record_update>

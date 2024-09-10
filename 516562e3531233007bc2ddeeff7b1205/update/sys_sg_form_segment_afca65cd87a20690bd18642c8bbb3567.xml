@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen/>
+        <form/>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>20</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-31 21:25:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>afca65cd87a20690bd18642c8bbb3567</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_form_segment_afca65cd87a20690bd18642c8bbb3567</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-31 21:25:13</sys_updated_on>
+    </sys_sg_form_segment>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53d8620000001</claim_timestamp>
+        <metadata_update_name>sys_sg_form_segment_afca65cd87a20690bd18642c8bbb3567</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:08</sys_created_on>
+        <sys_id>870ddd7193641e90a736f04b6aba1060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:08</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e902","Name":"icon-Clipboard-Lines","FontColor":"#6ABECF","BackgroundColor":"#6ABECF"}</icon>
+        <name>icon-Clipboard-Lines</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-07 18:52:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>47332e72b7433300295a9489de11a9b7</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>icon-Clipboard-Lines</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_icon_47332e72b7433300295a9489de11a9b7</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-04-12 20:06:21</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f3993ca100000001</claim_timestamp>
+        <metadata_update_name>sys_sg_icon_47332e72b7433300295a9489de11a9b7</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-02 13:52:17</sys_created_on>
+        <sys_id>160d66231b7586d0f4eea9bfbd4bcbed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-02 13:52:17</sys_updated_on>
+    </sys_claim>
+</record_update>

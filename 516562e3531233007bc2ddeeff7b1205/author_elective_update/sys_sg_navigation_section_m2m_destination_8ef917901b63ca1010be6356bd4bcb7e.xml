@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination">
+    <sys_sg_navigation_section_m2m_destination action="DELETE">
+        <navigation_section display_value="Other work">8374617243685110cd5bc3c42bb8f24e</navigation_section>
+        <navigation_section_destination display_value="Validation task icon section destination screen">c2f95b501b63ca1010be6356bd4bcb74</navigation_section_destination>
+        <order/>
+        <sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-18 14:38:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8ef917901b63ca1010be6356bd4bcb7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_8ef917901b63ca1010be6356bd4bcb7e</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:38:14</sys_updated_on>
+    </sys_sg_navigation_section_m2m_destination>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</application>
+        <comments/>
+        <file_path/>
+        <instance_id>a5c8446d0a0a3c7b0119a19c66620d52</instance_id>
+        <instance_name>umbtest</instance_name>
+        <name>sys_sg_navigation_section_m2m_destination_8ef917901b63ca1010be6356bd4bcb7e</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination"><sys_sg_navigation_section_m2m_destination action="INSERT_OR_UPDATE"><navigation_section display_value="Other work">8374617243685110cd5bc3c42bb8f24e</navigation_section><navigation_section_destination display_value="Validation task icon section destination screen">c2f95b501b63ca1010be6356bd4bcb74</navigation_section_destination><order/><sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name><sys_created_by>MXT011</sys_created_by><sys_created_on>2024-07-18 14:38:14</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8ef917901b63ca1010be6356bd4bcb7e</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope><sys_update_name>sys_sg_navigation_section_m2m_destination_8ef917901b63ca1010be6356bd4bcb7e</sys_update_name><sys_updated_by>MXT011</sys_updated_by><sys_updated_on>2024-07-18 14:38:14</sys_updated_on></sys_sg_navigation_section_m2m_destination></record_update>]]></payload>
+        <payload_hash>1486341674</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>58e5bfff4708c618809ff597536d4305</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-07-18 14:38:14</sys_created_on>
+        <sys_id>0af917901b63ca1010be6356bd4bcb81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190c64787bb0000001</sys_recorded_at>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:38:14</sys_updated_on>
+        <type>Icon section destinations</type>
+        <update_guid>caf91790de63ca10b08521e22dde6c80</update_guid>
+        <update_guid_history>caf91790de63ca10b08521e22dde6c80:1486341674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:24:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_navigation_section_m2m_destination">sys_sg_navigation_section_m2m_destination</sys_db_object>
+        <sys_id>90fb919fa78441298c5a55424676ae89</sys_id>
+        <sys_metadata>8ef917901b63ca1010be6356bd4bcb7e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_scope_delete display_value="">8477b1bbe10647b098602fbf22460a40</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_8ef917901b63ca1010be6356bd4bcb7e</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_section_m2m_destination_8ef917901b63ca1010be6356bd4bcb7e">0af917901b63ca1010be6356bd4bcb81</sys_update_version>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:24:14</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>191dc53da350000001</claim_timestamp>
+        <metadata_update_name>sys_sg_navigation_section_m2m_destination_8ef917901b63ca1010be6356bd4bcb7e</metadata_update_name>
+        <previous_claim_app_version>8.2.2</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-09-10 14:26:08</sys_created_on>
+        <sys_id>1f0ddd7193641e90a736f04b6aba10b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:26:08</sys_updated_on>
+    </sys_claim>
+</record_update>

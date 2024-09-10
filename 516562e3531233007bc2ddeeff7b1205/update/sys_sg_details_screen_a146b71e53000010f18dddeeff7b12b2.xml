@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>My approvals planning - change request</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My Approvals Icon">049c5a5853033300f18dddeeff7b12cd</icon>
+        <name>Planning</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-25 04:41:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a146b71e53000010f18dddeeff7b12b2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Planning</sys_name>
+        <sys_package display_value="ITSM Mobile Agent" source="sn_itsm_mobile_agt">516562e3531233007bc2ddeeff7b1205</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</sys_scope>
+        <sys_update_name>sys_sg_details_screen_a146b71e53000010f18dddeeff7b12b2</sys_update_name>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-02-21 22:28:34</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_details_screen>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ITSM Mobile Agent">516562e3531233007bc2ddeeff7b1205</claim_owner_scope>
+        <claim_timestamp>18f81c180990000001</claim_timestamp>
+        <metadata_update_name>sys_sg_details_screen_a146b71e53000010f18dddeeff7b12b2</metadata_update_name>
+        <previous_claim_app_version>8.0.0</previous_claim_app_version>
+        <previous_claim_name>ITSM Mobile Agent</previous_claim_name>
+        <previous_claim_scope>516562e3531233007bc2ddeeff7b1205</previous_claim_scope>
+        <sys_created_by>MXT011</sys_created_by>
+        <sys_created_on>2024-05-16 14:14:53</sys_created_on>
+        <sys_id>a578ba04879a0610bd18642c8bbb35f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>MXT011</sys_updated_by>
+        <sys_updated_on>2024-05-16 14:14:53</sys_updated_on>
+    </sys_claim>
+</record_update>
